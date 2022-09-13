@@ -1,0 +1,14 @@
+{
+  "name": "alphabet_position",
+  "version": "1.0.0",
+  "description": "a command line utility that gives you the alphabet position of a letter",
+  "main": "alphabet_position.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "alphabet": "./cli.js"
+  }
+}
